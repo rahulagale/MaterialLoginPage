@@ -60,7 +60,7 @@
         android:drawableStart="@drawable/ic_email"
         android:drawablePadding="16dp"
         android:ems="10"
-        android:hint="Email"
+        android:hint="@string/email"
         android:inputType="text"
         android:minHeight="48dp"
         android:padding="16dp"
